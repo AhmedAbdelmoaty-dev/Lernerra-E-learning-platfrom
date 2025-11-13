@@ -93,7 +93,7 @@ dotnet run
 cd FrontEnd
 npm install
 ng serve
-
+  
 
 
 
